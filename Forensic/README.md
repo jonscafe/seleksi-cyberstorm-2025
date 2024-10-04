@@ -9,4 +9,5 @@ Forensic CTF challenges involve investigating and analyzing digital evidence to 
 | rusak | File Analysis, Hex Fixing    | Baby         | [k.eii](https://github.com/jonscafe)  |
 | sniff 2 | TCP, PCAP    | Hard         | [k.eii](https://github.com/jonscafe)  |
 | EOF | File Analysis, ELF Structure    | Easy         | [k.eii](https://github.com/jonscafe)  |
+| network | API, Traffic    | Medium         | [k.eii](https://github.com/jonscafe)  |
 
