@@ -1,6 +1,9 @@
 # Challenge Name:
 ftstd-checker
 
+## Description:
+asli saya bingung mau bikin chall rev yang gimana jadinya flag checker dengan sedikit Matematika Diskrit Terapan
+
 ## Category:
 Rev
 
