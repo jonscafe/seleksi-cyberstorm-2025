@@ -10,10 +10,10 @@ This repository contains the official challenges for the internal selection of *
 
 Each category has its own README for challenge descriptions:
 
-- [Forensic Challenges](forensic/README.md)
-- [Web Challenges](web/README.md)
-- [Pwn Challenges](pwn/README.md)
-- [Reverse Engineering Challenges](rev/README.md)
-- [Crypto Challenges](crypto/README.md)
+- [Forensic Challenges](Forensic/README.md)
+- [Web Challenges](Web/README.md)
+- [Pwn Challenges](Pwn/README.md)
+- [Reverse Engineering Challenges](Rev/README.md)
+- [Crypto Challenges](Crypto/README.md)
 
 Good luck!
