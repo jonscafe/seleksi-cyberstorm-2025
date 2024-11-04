@@ -11,7 +11,7 @@ Rev
 
 
 ## Flag:
-`STORM{ran50med_by_g0_l4ng}`
+`STORM{volatility_t0_4n4lyze_memdumP_with_some_revers3_engineering}`
 
 ## Points:
 500
