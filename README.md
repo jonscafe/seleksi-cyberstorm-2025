@@ -8,6 +8,7 @@ This repository contains the official challenges for the internal selection of *
 - **Reverse Engineering**: Understanding compiled programs to retrieve flags.
 - **Crypto**: Solving cryptographic challenges.
 
+There are 6 challs/category.
 Each category has its own README for challenge descriptions:
 
 - [Forensic Challenges](Forensic)

@@ -6,4 +6,6 @@ Reverse Engineering (Rev) challenges require participants to analyze compiled pr
 
 | Name   | Topic           | Difficulties | Author |
 |--------|-----------------|--------------|--------|
-| ftstd-checker | FSA, Checker, C         | Easy | k.eii |
+| ftstd-checker | Algorithm, Checker, C         | Medium | k.eii |
+| baby-checker | Checker, C | Very Easy | k.eii |
+| exfilrev | PCAP, Exfiltration, C | Easy | k.eii |
