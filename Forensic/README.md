@@ -11,4 +11,4 @@ Forensic CTF challenges involve investigating and analyzing digital evidence to 
 | EOF | File Analysis, ELF Structure    | Easy         | [k.eii](https://github.com/jonscafe)  |
 | traffic | API, Traffic    | Easy         | [k.eii](https://github.com/jonscafe)  |
 | Gluttony | Dump, Reverse    | Medium         | [k.eii](https://github.com/jonscafe)  |
-| isilop (not yet) | DFIR | Hard | [k.eii](https://github.com/jonscafe)
+| isilop | DFIR | Hard | [k.eii](https://github.com/jonscafe)
