@@ -7,3 +7,4 @@ Web CTF challenges focus on exploiting vulnerabilities in web applications. Part
 | Name   | Topic           | Difficulties | Author |
 |--------|-----------------|--------------|--------|
 | cross-origin | Encoded XSS         | Very Easy | [k.eii](https://github.com/jonscafe) |
+| external entity | XXE         | Easy | [k.eii](https://github.com/jonscafe) |
