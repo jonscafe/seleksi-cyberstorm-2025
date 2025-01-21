@@ -16,11 +16,11 @@ def home():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>JWT Challenge</title>
+        <title>jawaaaaaaaaaaaaaaaaaa</title>
     </head>
     <body>
-        <h1>JWT Challenge</h1>
-        <p>The JWT token has been stored as a cookie in your browser. Decode it to find the flag!</p>
+        <h1>Raja Jawa</h1>
+        <p>jawaaaaaaaaaaaaaaaaaaaaaaaa</p>
         <img src="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/230/2024/09/22/RAJA-AJWA-677970050.jpg" 
              alt="Challenge Image" 
              style="max-width: 100%; height: auto;">
