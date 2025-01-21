@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  jwt-ctf:
+    build: .
+    ports:
+      - "10004:10004"
+    container_name: jwt-ctf

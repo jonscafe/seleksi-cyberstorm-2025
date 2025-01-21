@@ -9,3 +9,4 @@ Web CTF challenges focus on exploiting vulnerabilities in web applications. Part
 | cross-origin | Encoded XSS         | Easy | [k.eii](https://github.com/jonscafe) |
 | external entitiy | XXE         | Very Easy | [k.eii](https://github.com/jonscafe) |
 | Social Media | IDOR | Medium | [k.eii](https://github.com/jonscafe) |
+| jawa token | JWT | Baby | [k.eii](https://github.com/jonscafe) |
