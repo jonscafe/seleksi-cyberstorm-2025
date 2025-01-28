@@ -2,8 +2,11 @@
 eof
 
 ## Description:
-kayak rusak, tapi beda file.
-Run the file to get the flag!
+sama kayak `rusak` tapi beda file aja.
+
+`Run the file to get the flag!`
+
+>author: k.eii
 
 ## Category:
 Forensic
@@ -12,7 +15,7 @@ Forensic
 ./chall
 
 ## Flag:
-`{dapetin_flag_dari_elf_yang_rusak}`
+`STORM{perbaiki_elf_run_flag_retrieved_00efdabce877}`
 
 ## Points:
 500
