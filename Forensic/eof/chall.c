@@ -1,22 +1,19 @@
 #include <stdio.h>
 
 int main() {
-    // Array of numbers to print
     int numbers[] = {
-        173,144,141,160,145,164,151,156,137,146,154,141,147,137,144,141,162,151,137,145,154,146,137,171,141,156,147,137,162,165,163,141,153,175
+        123,124,117,122,115,173,160,145,162,142,141,151,153,151,137,145,154,146,137,162,165,156,137,146,154,141,147,137,162,145,164,162,151,145,166,145,144,137,60,60,145,146,144,141,142,143,145,70,67,67,175
     };
 
-    // Get the size of the array
     int size = sizeof(numbers) / sizeof(numbers[0]);
 
-    // Loop through the array and print each number
     for (int i = 0; i < size; i++) {
         printf("%d", numbers[i]);
         if (i < size - 1) {
-            printf(","); // Print a comma after each number except the last one
+            printf(","); 
         }
     }
 
-    printf("\n"); // Print a newline after the last number
+    printf("\n"); 
     return 0;
 }
