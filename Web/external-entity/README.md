@@ -2,7 +2,7 @@
 external entity
 
 ## Description:
-could you abuse my document validator website?
+could you abuse my profile importer website?
 
 ## Category:
 Web
@@ -11,7 +11,7 @@ Web
 ./dist.zip
 
 ## Flag:
-`STORM{xxe_abuse_using_xml_document_44edff13bcaa}`
+`STORM{xxe_abuse_via_upload_form_00efd9ab12}`
 
 ## Points:
 500

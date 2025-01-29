@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  xml-external-entity:
+    build: .
+    ports:
+      - "10002:80"
+    volumes:
+      - ./src:/var/www/html

