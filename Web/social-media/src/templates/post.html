@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>{{ post[1] }}</h2>
+<p>Written by: {{ post[2] }}</p>
+<p>Time: {{ post[4] | datetimeformat }}</p>
+{% if post[2] == "admin" %}
+    <p><strong>{{ post[3] }}</strong></p>
+{% endif %}
+{% endblock %}

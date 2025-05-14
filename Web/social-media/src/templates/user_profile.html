@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>{{ username }}'s Profile</h2>
+
+<!-- Display the posts with their titles and timestamps -->
+{% if posts %}
+    <ul>
+        {% for post in posts %}
+            <li>
+                <strong>Post ID: {{ post[0]}}, </strong> 
+                <strong>Title: {{ post[1] }}</strong> 
+                - Posted on {{ post[2] | datetimeformat }}
+            </li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>{{ username }} has not created any posts yet.</p>
+{% endif %}
+{% endblock %}
