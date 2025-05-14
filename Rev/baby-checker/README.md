@@ -1,5 +1,5 @@
 # Challenge Name:
-ftstd-checker
+baby-checker
 
 ## Description:
 intro to flag checker
